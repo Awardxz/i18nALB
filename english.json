@@ -156,6 +156,8 @@
         "settings-languageserver-desc": "Choose your language server.",
         "settings-ai": "AI features",
         "settings-ai-desc": "Enable beta AI features for code editing.",
+        "settings-formatonsave": "Format on save",
+        "settings-formatonsave-desc": "Automatically format your code when saving to a file.",
 
         "settings-rfu_no_cap": "No cap",
         "settings-rfu_no_cap-desc": "Removes FPS cap",
