@@ -158,6 +158,10 @@
         "settings-ai-desc": "Enable beta AI features for code editing.",
         "settings-formatonsave": "Format on save",
         "settings-formatonsave-desc": "Automatically format your code when saving to a file.",
+        "settings-forgetdisconnections": "Forget instances on disconnect",
+        "settings-forgetdisconnections-desc": "Forget an instance upon disconnect even if a tab has it selected.",
+        "settings-stickyscroll": "Sticky scroll",
+        "settings-stickyscroll-desc": "Shows which scope you are in at the top of the editor.",
 
         "settings-rfu_no_cap": "No cap",
         "settings-rfu_no_cap-desc": "Removes FPS cap",
